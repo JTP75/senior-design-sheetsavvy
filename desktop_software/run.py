@@ -1,0 +1,4 @@
+from src.main import main
+from sys import argv
+
+main(argv)

@@ -1,0 +1,9 @@
+// "C:\Users\pacel\Documents\Fall_2025\ECE1896\tdm_testing\c4_120bpm.txt"
+
+configuration for "dspic33ev256gm002" is
+end configuration;
+
+testbench for "dspic33ev256gm002" is
+begin
+    accessin("C:\Users\pacel\Documents\Fall_2025\ECE1896\tdm_testing\c4_120bpm.txt", dec_mode, ADC1BUF0, true);
+end testbench;

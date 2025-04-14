@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/first_draft_senior_design.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>8366</used>
+      <free>8018</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>261696</length>
+      <used>20550</used>
+      <free>241146</free>
+    </memory>
+  </executable>
+</project>
